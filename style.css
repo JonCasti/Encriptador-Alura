@@ -1,0 +1,120 @@
+*{
+    background: #b7cfd5;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 150%;
+
+}
+
+.logo {
+    padding-top: 10px;
+    margin-left: 10px;
+    width: 10%;
+
+}
+
+main {
+    display: flex;
+    margin-bottom: 50px;
+    margin-left: 80px;
+
+}
+
+.text-area {
+    font-size: 45px;
+    border: none;
+    color: #0c9cc2;
+    margin-top: 90px;
+    text-transform:lowercase;
+}
+
+::placeholder {
+    color: #0c9cc2;
+    
+}
+
+.text-area:focus {
+    outline:none;
+    
+}
+
+.mensaje {
+    background:#d8dfe8;
+    background-image: url("imagenes/Muñeco.png");
+    background-repeat: no-repeat;
+    border: none;
+    border-radius: 25px;
+    color:#0c9cc2;
+    margin-left: 98px;
+    margin-top: 20px;
+    padding-left: 20px;
+    position: fixed;
+
+}
+
+.mensaje:focus {
+    outline: none;
+
+}
+
+.botones {
+    display: flex;
+    margin-top: 18px;
+
+}
+
+.btn-desencriptar {
+    background: #d8dfe8;
+    border: 1px solid #0c9cc2;
+    border-radius: 25px;
+    color: #0c9cc2;
+    cursor: pointer;
+    height: 65px;
+    margin-left: 30px;
+    width: 325px;
+
+}
+
+.btn-encriptar {
+    background-color: #0c9cc2;
+    border: 1px solid #0c9cc2;
+    border-radius: 25px;
+    color: white;
+    cursor: pointer;
+    height: 65px;
+    width: 325px;
+
+}
+
+.btn-copiar {
+    border: 1px solid #0c9cc2;
+    border-radius: 25px;
+    color: #0c9cc2;
+    cursor: pointer;
+    height: 65px;
+    margin-left: 110px;
+    margin-top: 400px;
+    position: absolute;
+    width: 335px;
+
+}
+
+.informacion {
+    color: #0c9cc2;
+    font-size: 30px;
+
+}
+
+footer {
+    text-align: center;
+    padding: 40px;
+
+}
+
+.Copyright {
+    color: #0c9cc2;
+    font-size: 20px;
+    font-style: italic;
+
+}
