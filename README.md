@@ -1,3 +1,5 @@
+<h1 align="center"> Encriptador de texto Alura </h1>
+
 Este es un encriptador de texto básico creado en HTML, CSS y Javascript con una interfaz agradable e intuitiva.
 
 El encriptador me permite ingresar texto, en específico palabras con caractéres que van de la A a la Z; siempre y cuando cumpla con dos condiciones:
@@ -10,4 +12,4 @@ Los usuarios puede ingresar en el campo: "Ingrese texto aquí", ubicado en la pa
 SI deseamos conocer el texto origianl, debemos hacer click en el boton copiar, ubicado debajo del cuadro a la derecha y nos indicará que ya el texto ha sido copiado.
 Nos colocamos sobre el area que indica: "Ingrese texto aquí" y con el boton derecho del mouse indicamos pegar; a continuación en la parte inferior izquierda seleccionamos el boton desencriptar y podremos visualizar el texto que inicialmente colocamos para encriptar.
 
-Desarrollado por: Jonathan Castillo.
+Desarrollado por: Jonathan Castillo - 2024.
